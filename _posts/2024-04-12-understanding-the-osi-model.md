@@ -9,7 +9,9 @@ layout: post
 date: 2024-04-13 10:10:09 -0500
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/owDh6FNJUog?si=wejbeaMzPjl3eJCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<div class="container">
+    <iframe class="responsive-iframe" width="560" height="315" src="https://www.youtube.com/embed/owDh6FNJUog?si=wejbeaMzPjl3eJCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+</div>
 
 ## The OSI Model
 
@@ -26,7 +28,7 @@ date: 2024-04-13 10:10:09 -0500
 - It's a guide / model
     - The OSI model is a way to describe how network traffic is moving from one part of the network to another
 - This is not the OSI protocol suite
-    - Most of the OSI protocols didn't catch (we use TCP/IP)
+    - Most of the OSI protocols didn't catch on (we use TCP/IP)
 - There are unique protocols at every layer
 - You'll refer to the OSI model for the rest of your career
     - It's a common language within IT to describe how data is progressing from the very beginning of the traffic flow to the very end
@@ -43,7 +45,7 @@ date: 2024-04-13 10:10:09 -0500
 
 ## Layer 1 - The Physical Layer
 
-- They physics of the network
+- The physics of the network
     - Signaling, cabling, connectors
     - This layer isn't about protocols
 - "You have a physical layer problem."
