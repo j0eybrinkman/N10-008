@@ -13,6 +13,8 @@ date: 2024-04-13 10:10:09 -0500
     <iframe class="responsive-iframe" width="560" height="315" src="https://www.youtube.com/embed/owDh6FNJUog?si=wejbeaMzPjl3eJCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 </div>
 
+[Understanding the OSI Model – N10-008 CompTIA Network+ : 1.1](https://www.professormesser.com/?p=624596){:target="_blank"}
+
 ## The OSI Model
 
 | Layer 7 Application  |

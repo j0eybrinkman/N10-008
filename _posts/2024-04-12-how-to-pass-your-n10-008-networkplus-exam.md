@@ -12,6 +12,8 @@ date: 2024-04-12 12:25:39 -0500
   <iframe class="responsive-iframe" width="560" height="315" src="https://www.youtube.com/embed/As6g6IXcVa4?si=mna69wE9ojEn2xcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+[How to Pass Your N10-008 Network+ Exam](https://www.professormesser.com/?p=624592){:target="_blank"}
+
 ### Exam Objectives
 - [CompTIA Network+
 Certification Exam
