@@ -36,7 +36,7 @@ date: 2024-04-14 21:38:59 -0500
 
 ## Dissecting a Frame
  - Each layer has a header and payload
-[![Dissecting a Frame](/assets/img/dissecting_a_frame.png)](https://youtu.be/jKjVTPpcZT0?si=r5nqWxfWKd4AoBBF&t=230){:target="_blank"}
+[![Dissecting a Frame](/img/dissecting_a_frame.png)](https://youtu.be/jKjVTPpcZT0?si=r5nqWxfWKd4AoBBF&t=230){:target="_blank"}
 
 ## TCP Flags
 - The header describes or identifies the payload
@@ -44,7 +44,7 @@ date: 2024-04-14 21:38:59 -0500
 - The TCP header contains important control information
     - Includes a set of bits called TCP flags
 
-[![TCP Flags](/assets/img/TCP_flags.png)](/assets/img/TCP_flags.png)
+[![TCP Flags](/img/TCP_flags.png)](/img/TCP_flags.png)
 
 - The flags control the payload
     - SYN - Synchronize sequence numbers
@@ -56,7 +56,7 @@ date: 2024-04-14 21:38:59 -0500
 - Maximum IP packet to transmit
     - But not fragment
 
-[![TCP Flags](/assets/img/mtu.png)](/assets/img/mtu.png)
+[![TCP Flags](/img/mtu.png)](/img/mtu.png)
 
 - Fragmentation slows things down
     - Losing a fragment loses an entire packet
@@ -66,11 +66,11 @@ date: 2024-04-14 21:38:59 -0500
     - Especially when ICMP is filtered
 
 ## Building an Ethernet Frame
-[![Building an Ethernet Frame](/assets/img/building_an_ethernet_frame.jpg)](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9996AB4B5C17508B16){:target="_blank"}
+[![Building an Ethernet Frame](/img/building_an_ethernet_frame.jpg)](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9996AB4B5C17508B16){:target="_blank"}
 
 ## What is IP Fragmentation?
 
-[![IP Fragmentation](/assets/img/ip_fragmentation.png)](https://upload.wikimedia.org/wikipedia/commons/c/cd/PDU_Fragmentation-en.png){:target="_blank"}
+[![IP Fragmentation](/img/ip_fragmentation.png)](https://upload.wikimedia.org/wikipedia/commons/c/cd/PDU_Fragmentation-en.png){:target="_blank"}
 
 - Fragments are always in multiples of 8 because the number of fragmentation offsets bits in the IP header
 
