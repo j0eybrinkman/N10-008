@@ -7,6 +7,13 @@ layout: default
   <p>{{ post.date | date_to_string }}</p>
 {% endfor %}
 
-<!-- markdown link syntax for easy copy/paste
+<!-- 
+
+mardown syntax for easy copy/paste
+
+link
   [](){:target="_blank"}
- -->
+
+image 
+  [![]({{site.baseurl}}/img/)](){:target="_blank"}
+  -->
