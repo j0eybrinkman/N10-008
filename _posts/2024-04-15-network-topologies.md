@@ -9,6 +9,12 @@ layout: post
 date: 2024-04-15 21:38:23 -0500
 ---
 
+<div class="container">
+    <iframe class="responsive-iframe" width="560" height="315" src="https://www.youtube.com/embed/nKMrAvl960I?si=-NkpKJXEybzigsYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+[Network Topologies - N10-008 CompTIA Network+ : 1.2](https://youtu.be/nKMrAvl960I?si=-LVgQ_eXE3jG1mfr){:target="_blank"}
+
 ## Network Topologies
 
 - Useful in planning a new network
