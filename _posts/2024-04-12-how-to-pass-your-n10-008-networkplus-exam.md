@@ -2,6 +2,9 @@
 title: How to Pass Your N10-008 Network+ Exam
 author: Joey
 tags:
+  - Section 01&#58; The N10-008 Network+ Exam
+  - 0.1 – Introduction
+  - How to Pass Your N10-008 Network+ Exam
   - Exam Objectives
   - Professer Messer Free Resources
 layout: post

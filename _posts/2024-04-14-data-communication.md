@@ -2,8 +2,9 @@
 title: Data Communication - N10-008 CompTIA Network+ &#58; 1.1
 author: Joey
 tags:
-  - Networking Concepts
-  - The OSI Model
+  - Section 1&#58; Networking Concepts
+  - 1.1 – The OSI Model
+  - Data Communication
   - Professer Messer 
 layout: post
 date: 2024-04-14 21:38:59 -0500

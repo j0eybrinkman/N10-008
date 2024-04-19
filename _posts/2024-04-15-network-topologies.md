@@ -2,8 +2,9 @@
 title: Network Topologies - N10-008 CompTIA Network+ &#58; 1.2
 author: Joey
 tags:
-  - Networking Concepts
-  - Network Topologies and Types
+  - Section 1&#58; Networking Concepts
+  - 1.2 – Network Topologies and Types
+  - Network Topologies
   - Professer Messer 
 layout: post
 date: 2024-04-15 21:38:23 -0500

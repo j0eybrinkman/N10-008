@@ -2,8 +2,9 @@
 title: Understanding the OSI Model
 author: Joey
 tags:
-  - Networking Concepts
-  - The OSI Model
+  - Section 1&#58; Networking Concepts
+  - 1.1 – The OSI Model
+  - Understanding the OSI Model
   - Professer Messer 
 layout: post
 date: 2024-04-13 10:10:09 -0500

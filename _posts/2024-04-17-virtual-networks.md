@@ -2,7 +2,8 @@
 title: Virtual Networks - N10-008 CompTIA Network+ &#58; 1.2
 author: Joey
 tags:
-  - Networking Concepts
+  - Section 1&#58; Networking Concepts
+  - 1.2 - Network Topolgies and Types
   - Virtual Networks
   - Professer Messer 
 layout: post
