@@ -3,8 +3,8 @@ title: Optical Fiber - N10-008 CompTIA Network+ &#58; 1.3
 author: Joey
 tags:
   - Section 1&#58; Networking Concepts
-  - 1.3 Optical Fiber
-  - Copper Cabling
+  - 1.3 Cables and Connectors
+  - Optical fiber
   - Professer Messer 
 layout: post
 date: 2024-04-19 20:00:15 -0500
