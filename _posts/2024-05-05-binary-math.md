@@ -53,7 +53,7 @@ date: 2024-05-05 10:21:15 -0500
     - Start with largest number in chart (Is 128 less than or equal to 154?)
     - answer 10011010
 
-[![Binary to Decimal Conversion]({{site.baseurl}}/img/binary_to_decimal_conversion.png)](https://youtu.be/tEv2PKT5Lv8?si=M_JIdTUdzeJvz3zd&t=394){:target="_blank"}
+[![Binary to Decimal Conversion]({{site.baseurl}}/img/decimal_to_binary_conversion.png)](https://youtu.be/tEv2PKT5Lv8?si=M_JIdTUdzeJvz3zd&t=394){:target="_blank"}
 
 | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 |-----|----|----|----|---|---|---|---|
