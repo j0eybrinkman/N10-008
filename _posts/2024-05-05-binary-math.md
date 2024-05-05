@@ -4,7 +4,7 @@ author: Joey
 tags:
   - Section 1&#58; Networking Concepts
   - 1.4 Binary Math
-  - Network Connectors
+  - IP Subnetting
   - Professer Messer 
 layout: post
 date: 2024-05-05 10:21:15 -0500
