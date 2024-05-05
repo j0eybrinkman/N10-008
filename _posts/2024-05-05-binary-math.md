@@ -1,5 +1,5 @@
 ---
-title: Network Connectors - N10-008 CompTIA Network+ &#58; 1.3
+title: Binary Math - N10-008 CompTIA Network+ &#58; 1.4
 author: Joey
 tags:
   - Section 1&#58; Networking Concepts
