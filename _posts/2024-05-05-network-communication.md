@@ -43,6 +43,7 @@ date: 2024-05-05 12:18:00 -0500
         - Difficult to scale across large networks
     - Used in both IPv4 and IPv6
         - Extensive use in IPv6
+        
 ## Anycast
 - Single destination IP address has multiple paths or two or more endpoints
     - One-to-one-of-many
