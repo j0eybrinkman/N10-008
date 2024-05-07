@@ -38,7 +38,7 @@ date: 2024-05-07 09:28:00 -0500
 [![The networks]({{site.baseurl}}/img/the_hosts.png)](https://youtu.be/SWy0MRfkXpQ?si=Po3AvwtrsAlED6eG){:target="_blank"}
 
 ## The seven second subnetting process
-- Convert IP addressand subnet mask to decimal 
+- Convert IP address and subnet mask to decimal 
   - Use chart to convert between CIDR-block notation and decimal
   - Same Chart also shows the number of devices per subnet
 - Determine network/subnet address
