@@ -47,3 +47,23 @@ date: 2024-05-07 09:28:00 -0500
   - Second chart shows the ending subnet boundary
 - Calculate first and last usable IP address
   - Add one from network address, subtract one from broadcast address
+
+[![The seven second subnetting process]({{site.baseurl}}/img/the_seven_second_subnetting_process.png)](https://youtu.be/SWy0MRfkXpQ?si=Po3AvwtrsAlED6eG){:target="_blank"}
+
+18.172.200.77/17
+
+255.255.128.0
+
+18.172.128.0
+
+18.172.255.255
+
+18.172.128.1 - 18.172.255.254
+
+## Subnetting and exams
+- Practice creating the charts
+  - Writing and typing
+  - Less than a minute
+- Consider using your own dry erase pen
+  - Fine tip 
+  - Get permission from the testing center
